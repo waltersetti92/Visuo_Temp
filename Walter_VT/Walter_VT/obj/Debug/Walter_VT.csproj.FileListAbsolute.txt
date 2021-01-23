@@ -9,3 +9,4 @@ C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.exe
 C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.pdb
 C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.Initial.resources
 C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.csprojAssemblyReference.cache
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.Interaction.resources
