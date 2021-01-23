@@ -1,0 +1,11 @@
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\bin\Debug\Walter_VT.exe.config
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\bin\Debug\Walter_VT.exe
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\bin\Debug\Walter_VT.pdb
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.Main.resources
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.Properties.Resources.resources
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.csproj.GenerateResource.cache
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.exe
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.pdb
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.Initial.resources
+C:\Users\Luigi\Documents\Walter_VT\Walter_VT\obj\Debug\Walter_VT.csprojAssemblyReference.cache
